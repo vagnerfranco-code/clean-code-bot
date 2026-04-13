@@ -24,5 +24,5 @@ python3 -m clean_code_bot.cli examples/before/example.py
 ## Run Tests
 
 ```bash
-pytest
+python3 -m pytest
 ```
