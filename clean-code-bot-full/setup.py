@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "click",
-        "openai"
+        "groq"
     ],
     entry_points={
         "console_scripts": [
